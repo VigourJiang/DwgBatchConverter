@@ -1,0 +1,9 @@
+Feature:
+Convert dwg file version to AutoCAD 2007.
+
+Usage:
+1. Open AutoCAD 2013.
+2. netload DwgBatchConverter.
+3. type "BatchConvert" command in AutoCAD, and select source dwg files.
+4. Converted files will be save in directory VersionConvert.
+
